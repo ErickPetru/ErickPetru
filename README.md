@@ -8,5 +8,5 @@ Master in Production Engineering, MBA in IT Management, Technologist in Data Pro
 - ⌨️ I’m also freelancer designer and software developer for more than 20 years! Yes, I was a bored yet curious teenage boy.
 - 🤓 I’m currently learning so many things, like Python, Docker, cooking...
 - 💬 Ask me about anything in the software development lifecycle.
-- 📫 How to reach me: [erickpetru@gmail.com](mailto:erickpetru@gmail.com).
+- 📫 How to reach me: [erick.petrucelli@fatectq.edu.br](mailto:erick.petrucelli@fatectq.edu.br).
 - ⚡ Fun fact: I never thought I'd create a README about myself.
