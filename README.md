@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/ErickPetru/ErickPetru/blob/master/erick-petrucelli.jpg" alt="Erick Petrucelli's shot taken at The Developer's Conference Sao Paulo 2019" width="350px" />
+<img align="right" src="https://github.com/ErickPetru/ErickPetru/blob/master/erick-petrucelli.jpg?v=20200730" alt="Erick Petrucelli's shot taken at The Developer's Conference Sao Paulo 2019" width="350px" />
 
 ### Hi, I’m Erick 👋
 
