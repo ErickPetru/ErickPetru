@@ -2,7 +2,7 @@
 
 ### Hi, I’m Erick 👋
 
-Master in Production Engineering, MBA in IT Management, Technologist in Data Processing, IT Technician, certified as MCP and MCPD. More than 10 years as professor, consultor and speaker. More than 20 years of experience in software development, being worked with several languages and technologies, such as: HTML, CSS, JavaScript (ECMAScript), TypeScript, Vue, Angular, React, jQuery, Bootstrap, Tailwind, Vuetify, Node, GraphQL, .NET, C#, PHP, VB, Java, NativeScript, SQL Server, Oracle, MariaDB, PostgreSQL, MongoDB, Firebase, FaunaDB... Husband, "father" of two dogs and a cat, amateur cook, gamer, musician, freelancer designer and developer, open-source contributor on the spare time. Community partner of the progressive framework Vue.js, maintainer of its Portuguese documentation translation.
+Scrum Master and Senior Software Engineer at [Airbank](https://github.com/joinairbank). Master in Production Engineering, MBA in IT Management, Technologist in Data Processing, IT Technician, certified as MCP and MCPD. More than 10 years as a university professor, consultant and speaker. More than 20 years of experience in software development, having worked with several languages and technologies. Husband, "father" of two dogs and a cat, amateur cook , player, musician, designer and freelance developer, open source contributor in his spare time. Community partner of the Vue.js progressive framework by contributions with its Brazilian Portuguese documentation.
 
 - 👨‍🏫 I’m working as professor in higher education for more than 10 years.
 - ⌨️ I’m also freelancer designer and software developer for more than 20 years! Yes, I was a bored yet curious teenage boy.
