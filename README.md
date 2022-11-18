@@ -1,5 +1,5 @@
 <a href="https://profile.codersrank.io/user/erickpetru" target="_blank">
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&amp;username=erickpetru&amp;badges=3&amp;show-avatar=false&amp;branding=false&amp;style=--header-bg-color:%23161b22;--border-radius:0;--border:1px+solid+%2330363d;--name-font-size:18px;--header-text-color:%23c9d1d9;--rank-font-size:11px;--badge-bg-color:%23010409;--badge-text-color:%23c9d1d9;--badges-padding:0;--badge-margin:0;--badge-border-radius:0;--badge-border:2px+solid+%2330363d;--badge-location-font-size:9px" width="720px">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=erickpetru&badges=3&show-avatar=false&branding=false&style=--header-bg-color:%23161b22;--border-radius:0;--border:1px+solid+%2330363d;--name-font-size:18px;--header-text-color:%23c9d1d9;--rank-font-size:11px;--badge-bg-color:%23010409;--badge-text-color:%23c9d1d9;--badges-padding:0;--badge-margin:0;--badge-border-radius:0;--badge-border:2px+solid+%2330363d;--badge-location-font-size:9px" width="720px">
 </a>
 
 <br />
