@@ -1,4 +1,4 @@
-[![image](https://user-images.githubusercontent.com/242274/202718962-15ecfe27-d340-4306-bf87-bec4400b3428.png)](https://profile.codersrank.io/user/erickpetru)
+[![image](https://user-images.githubusercontent.com/242274/227365985-706bc49a-ceac-4c34-bd22-09f383f4328d.png)](https://profile.codersrank.io/user/erickpetru)
 
 <br />
 
