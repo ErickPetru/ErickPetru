@@ -10,7 +10,7 @@
 
 Holding a **Master's degree** in Production Engineering, **MBA** in IT Management, **Technologist degree** in Data Processing, IT Technician certified, I'm a consultant, manager, speaker, mentor, teacher, writer of numerous articles, documentation, and didactic materials, author of books on [HTML, CSS, JavaScript](https://www.nteditora.com.br/e-tecnico/ver-produto?id=ImPD%2Fk0%3D), and [PHP](https://www.nteditora.com.br/e-tecnico/ver-produto?id=ImPC%2Bk4%3D), open-source contributor, recognized [Vue.js community partner](https://vuejs.org/about/team.html).
 
-Back in 1998, I put my first website live. Never stopped then, having worked with a wide range of things like: HTML, CSS, JavaScript (ECMAScript), TypeScript, Tailwind, SASS, Vue, Nuxt, React, React Native, NativeScript, Lit (Polymer), jQuery, Webpack, Vite, Node, GraphQL, PHP, C#, ASP.NET, VB, SQL, Prisma, Mongo, Firebase, ChartJS, TreeJS, Storybook, Jest, Cypress, Docker, GitHub Actions, Azure, Google Cloud...
+Back in 1998, I put my first website live. Never stopped then, having worked with a wide range of things like: HTML, CSS, JavaScript (ECMAScript), TypeScript, Tailwind, SASS, Vue, Nuxt, React, React Native, NativeScript, Lit (Polymer), jQuery, Webpack, Vite, Node, GraphQL, PHP, C#, ASP.NET, VB, SQL, Prisma, Mongo, Firebase, ChartJS, TreeJS, Storybook, Jest, Cypress, Docker, Google Cloud...
 
 15 years ago I expanded studies to UI/UX design, branding, information architecture, semantics, usability, accessibility, standardization. I've been involved in the creation of many design systems and component libraries. But while having a passion for front-end and pixel-perfect interfaces, I also enjoy a lot back-end and systems' architecture, and I possess deep proficiency in SQL.
 
